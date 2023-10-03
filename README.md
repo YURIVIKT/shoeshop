@@ -14,7 +14,7 @@ https://github.com/maxbarsukov/shoeshop
 Пользователь может добавлять товары в корзину и покупать, перемещаться по категориям и брендам, искать, фильтровать и сортировать товары.
 Администратор имеет возможность управлять продуктами, добавлять и изменять их, а также имеет доступ к API и странице администратора.
 
-Вы можете перейти на [веб-сайт](https://shoeeshop.herokuapp.com/) или просмотреть изображения в [docs/images](https://github.com/maxbarsukov/shoeshop/tree/master/docs/ изображения) папка
+Вы можете перейти на [веб-сайт](https://shoeeshop.herokuapp.com/) или просмотреть изображения в [docs/images](https://github.com/maxbarsukov/shoeshop/tree/master/docs/изображения) папка
 
 ## Functionality included
 
